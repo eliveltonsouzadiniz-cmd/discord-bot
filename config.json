@@ -1,0 +1,20 @@
+{
+  "token": "SEU_TOKEN_AQUI",
+
+  "categoryPrivate": "1466263163719913622",
+
+  "adminIds": [
+    "1329808374300278814"
+  ],
+
+  "pix": "06ba1d8e-9326-4da8-94fc-d94cabd2d84d",
+
+  "modes": [
+    { "mode": "1v1 Mobile", "channelId": "1466616051524567260" },
+    { "mode": "2v2 Mobile", "channelId": "1466616751088341108" },
+    { "mode": "3v3 Mobile", "channelId": "1466617053342470257" },
+    { "mode": "4v4 Mobile", "channelId": "1466617139040616573" }
+  ],
+
+  "prices": [1, 2, 5, 10, 20]
+}
